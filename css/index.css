@@ -1,0 +1,260 @@
+*{
+	padding: 0;
+	margin:0;
+}
+ul,ol,li{
+	list-style: none;
+}
+.head{
+	height:173px;
+	background: #eeeeef;
+}
+.logo{
+	text-align: center;
+	height:95px;
+	padding-top: 30px;
+}
+
+.nav{
+	width:720px;
+	height:45px;
+	background: #fff;
+	margin:0 auto;
+	border-radius: 23px;
+}
+.nav li{
+	float:left;
+	height:45px;
+	padding: 0 30px;
+	line-height:45px;
+	background: url(../images/bianlan.png) no-repeat right center;
+}
+.nav li a {
+	display: block;
+	height:42px;
+	border-bottom: 3px solid #1e50ae;
+	padding-bottom: 0px;
+	text-decoration: none;
+}
+.nav li:first-child a{
+	border-bottom:3px solid #blue;
+}
+.nav li:last-child{
+	background: none;
+}
+.banner{
+	height:405px;
+	background: url(../images/beijing2.png) no-repeat center center;
+}
+.serve{
+	width:1060px;
+	height:837px;
+	margin:0 auto;
+	background: white;
+	text-align:center;
+}
+.serve1{
+	width:1060px;
+	height:237px;
+	text-align: center;
+	padding-top: 65px;
+	display: block;
+}
+.a{
+	margin-top:30px;
+}
+.serve2{
+	width:1060px;
+	height:369px;
+	float:left;
+}
+.b{
+	width:265px;
+	height:369px;
+	float:left;
+}
+
+.serve3{
+	width:1060px;
+	height:231px;
+	float:left;
+}
+.c{
+    width:265px;
+	height:231px;
+	float:left;
+}
+.e{
+	padding-left:86px;
+	color:#85868a;
+}
+.bann
+.d{
+	padding-left: 106px;
+}
+.z{
+	background: url(../images/dian.jpg) no-repeat left center;
+	padding-left: 18px;
+	color:#85868a;
+}
+.banner1{
+	width:100%;
+	height:710px;
+	margin-left: 0px;
+	position: absolute;
+	left:0px;
+	top:1500px;
+}
+.serve4{
+	height:875px;
+	width:1560px;
+	margin:0 auto;
+}
+.serve5{
+	width:1560px;
+	height:157px;
+	text-align: center;
+	padding-top: 65px;
+	display: block;
+	position: absolute;
+	left:30px;
+	top:2200px;
+}
+.servea{
+	position: absolute;
+	left:200px;
+	top:2400px;
+}
+.serveb{
+	width:560px;
+	height:190px;
+}
+.servec{
+	position: absolute;
+	left:670px;
+	top:2500px;
+}
+.served{
+	position: absolute;
+	left:670px;
+	top:2650px;
+}
+.servee{
+	width:600px;
+	height:360px;
+	position: absolute;
+	left:100;
+	top:2750px;
+}
+.g{
+	border-bottom: 1px dashed gray;
+	padding-bottom:15px;
+	color:gray;
+	font-size: 14px;
+	font-family: 微软雅黑;
+}
+.servef{
+	width:600px;
+	height:360px;
+	position: absolute;
+	left:850px;
+	top:2750px;
+}
+.serveg{
+	width:1560px;
+	height:105px;
+	background: #eeeeef;
+	position: absolute;
+	left:0px;
+	top:3000px;
+	text-align: center;
+}
+.serveh{
+	width:1560px;
+	height:103px;
+	float:left;
+	margin-top:30px;
+	padding-left: 100px;
+}
+.h{
+	width: 300px;
+	height:105px;
+	float:left;
+	padding:10px 30px;
+	background: url(../bianlan.png) no-repeat right center;
+}
+.h1{
+	float:left;
+}
+.servei{
+	height:259px;
+	width:1560px;
+	float:left;
+	background: black;
+	border-bottom:2px solid gray;
+	position: absolute;
+	left:0px;
+	top:3105px;
+}
+.servej{
+	height:260px;
+	width:615px;
+	float:left;
+	padding-left: 130px;
+	padding-top: 60px;
+}
+.servek{
+	height:259px;
+	width:79px;
+	float:left;
+	margin-left: 50px;
+}
+.serve16 ul li{
+	color:white;
+}
+.serve17{
+	padding-top:4px;
+}
+.serve18{
+	position: absolute;
+	left:1000px;
+	top:0px;
+}
+.header{
+	width:1560px;
+	height:125px;
+	background: black;
+	border-bottom:2px solid gray;
+	position: absolute;
+	left:0px;
+	top:3365px;
+}
+.nav1{
+	width:1100px;
+	height:45px;
+	background:black;
+	margin:0 auto;
+	padding-top: 40px;
+}
+.nav1 li{
+	float:left;
+	height:45px;
+	padding: 0 30px;
+	line-height:45px;
+	background: url(../bianlan.png) no-repeat right center;
+}
+.nav1 li a {
+	display: block;
+	height:45px;
+	padding-bottom: 0px;
+	text-decoration: none;
+	color: white;
+}
+.nav1 li:last-child{
+	background: none;
+}
+.serve19{
+	position: absolute;
+	left:620px;
+	top:0px;
+}
